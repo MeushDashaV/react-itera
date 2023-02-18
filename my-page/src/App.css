@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: rgb(57, 57, 219);
 }
 
 .App-logo {
@@ -8,15 +9,18 @@
 }
 
 .first_name {
-
+color: aqua;
+font-weight: bold;
 }
 
 .age {
-
+color: #61dafb;
+font-weight: bold;
 }
 
 .contact {
-  
+color: aquamarine;
+font-weight: bold;
 }
 
 @media (prefers-reduced-motion: no-preference) {
